@@ -1,0 +1,11 @@
+# Ignore generated files
+graph.png
+out.txt
+userData.bin
+*.txt (except data.txt and dis2.txt)
+!data.txt
+!dis2.txt
+# Ignore compiled binaries
+navigate_us
+*.exe
+*.o

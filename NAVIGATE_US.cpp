@@ -6,8 +6,8 @@
 #include <string.h>
 #include "path.h"
 #include <set>
+#include <vector> 
 
-#include <vector>
 using namespace std;
 int fun(int s, int d);
 class travel // for travel pointer
